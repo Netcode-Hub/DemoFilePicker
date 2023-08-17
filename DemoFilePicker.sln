@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoFilePicker", "DemoFilePicker\DemoFilePicker.csproj", "{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69BECD6E-4CD8-4D30-AFDE-385CB43F2C40}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FAAA6D-B75F-4291-B3E6-6A5E69085C06}
+	EndGlobalSection
+EndGlobal
